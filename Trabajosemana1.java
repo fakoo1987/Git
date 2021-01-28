@@ -25,7 +25,7 @@ public class Trabajosemana1 {
 					System.out.print(miArreglo2D[i][j] + " ");
 				}
 			}
-			System.out.println();
+			System.out.println("Prueba");
 	}
 
 }
